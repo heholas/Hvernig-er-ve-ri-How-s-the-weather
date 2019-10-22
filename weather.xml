@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<observations><station id="1"  valid="1"><name>Reykjavík</name><time>2019-10-22 16:00:00</time><err></err><link><![CDATA[http://www.vedur.is/vedur/athuganir/kort/hofudborgarsvaedid/#group=100&station=1]]></link><T>1,7</T><D>NA</D><W></W><F>5</F></station><station id="422"  valid="1"><name>Akureyri</name><time>2019-10-22 16:00:00</time><err></err><link><![CDATA[http://www.vedur.is/vedur/athuganir/kort/nordurland_eystra/#group=15&station=422]]></link><T>-1,4</T><D>NNA</D><W></W><F>5</F></station></observations>
